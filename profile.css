@@ -88,9 +88,8 @@ td{
 html{
     background-image:url('canva.jpg') ;
     background-repeat:no-repeat ;    
-    background-attachment: fixed;
-    
-    background-size: auto;
+    background-attachment: fixed;    
+    background-size: cover;
 }
 r{
     color:#ff3300;
